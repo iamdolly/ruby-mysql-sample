@@ -1,4 +1,4 @@
-# This references the default Ruby container from
+# This  references the default Ruby container from
 # the Docker Hub.
 # https://registry.hub.docker.com/_/ruby/
 # If you want to use a specific version you would use a tag:
